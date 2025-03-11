@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Cache
+*.cache
+*.pytest_cache/
+
+# Temporary files
+*.bak
+*.tmp
+
+# Data files
+*.csv
+*.json
+*.db
+
+# Secrets
+.env
+config.json
+secrets.json
